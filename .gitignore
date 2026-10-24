@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Car price models are created when the notebooks run (the full-dataset one is ~60 MB)
+3 - Car Price Prediction K-Fold Cross Validation/*.pkl
